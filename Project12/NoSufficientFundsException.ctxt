@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NoSufficientFundsException
+comment1.params=
+comment1.target=NoSufficientFundsException()
+comment2.params=message
+comment2.target=NoSufficientFundsException(java.lang.String)
+numComments=3
